@@ -51,7 +51,7 @@ body {
 	display: flex;
 	font-weight: bold;
 	justify-content: center;
-	background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("key.jpg");
+	background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url("key.jpg");
 
   min-height: 500px; 
 
